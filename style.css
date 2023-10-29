@@ -4,6 +4,7 @@ body {
 
 p {
     color: aqua;
+    text-align: center;
 }
 
 a:hover {
