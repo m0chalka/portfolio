@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    color: aqua;
+}
+
+a:hover {
+    color: yellow;
+}
+
+h1:hover {
+    color: aquamarine
+}
+
+footer {
+    background-color: blue;
+}
+
+
+h2:hover {
+    transition: 1s;
+    transform: scale(1.1);
+    margin-left: 50px;
+}
+
+li:hover {
+    color: brown;
+    transition: 2s;
+    transform: scale(1.5);
+    margin-left: 150px;
+}
